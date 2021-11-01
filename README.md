@@ -1,6 +1,6 @@
 # Práctica 1 de Tipología y Ciclo de Vida de los Datos (Web Scraping de GoodReads)
 
-# Descripción
+## Descripción
 
 Primera práctica de la asignatura Tipología y Ciclo de Vida de los datos del Máster en Ciencia de Datos de la UOC.
 
