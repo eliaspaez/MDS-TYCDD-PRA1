@@ -13,7 +13,8 @@ La práctica ha sido realizada por Juan Miguel Iglesias Labraca y Elías Páez d
 
     src/Práctica_1_TYCDD.ipynb: contiene todo el código de la práctica en Python.
     csv/GoodReads_Best_Books_2021.csv: contiene el csv con el dataset que hemos creado a partir de Good Reads.
-    pdf/
+    pdf/M2.851 - Juan Miguel Iglesias y Elías Páez - PRA1: contiene el pdf con la información de la práctica.
+    Nota: Los enlaces al video de la práctica (Google Drive) y a zenodo pueden encontrarse en el pdf ya mencionado.
     
 Recursos
 
