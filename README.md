@@ -1,11 +1,11 @@
 # Práctica 1 de Tipología y Ciclo de Vida de los Datos (Web Scraping de GoodReads)
 
 ## Descripción
-
 Primera práctica de la asignatura Tipología y Ciclo de Vida de los datos del Máster en Ciencia de Datos de la UOC.
 
 Se utiliza Python con la librería Selenium en Jupyter Notebooks para realizar web scraping de la página web Good Reads, se limpian e incluyen los datos en un dataframe y finalmente se vuelcan en un csv.
 
+## Miembros del equipo
 La práctica ha sido realizada por Juan Miguel Iglesias Labraca y Elías Páez de la Rosa.
 
 Ficheros del código fuente
