@@ -8,9 +8,12 @@ Se utiliza Python con la librería Selenium en Jupyter Notebooks para realizar w
 ## Miembros del equipo
 La práctica ha sido realizada por Juan Miguel Iglesias Labraca y Elías Páez de la Rosa.
 
-Ficheros del código fuente
+
+## Ficheros
 
     src/Práctica_1_TYCDD.ipynb: contiene todo el código de la práctica en Python.
+    csv/GoodReads_Best_Books_2021.csv: contiene el csv con el dataset que hemos creado a partir de Good Reads.
+    pdf/
     
 Recursos
 
