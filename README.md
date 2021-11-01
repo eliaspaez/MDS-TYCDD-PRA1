@@ -4,7 +4,7 @@ Descripción
 
 Primera práctica de la asignatura Tipología y Ciclo de Vida de los datos del Máster en Ciencia de Datos de la UOC.
 
-Se utiliza Python con la librería Selenium en Python Notebooks para realizar web scraping de la página web Good Reads, se limpian e incluyen los datos en un dataframe y finalmente se vuelcan en un csv.
+Se utiliza Python con la librería Selenium en Jupyter Notebooks para realizar web scraping de la página web Good Reads, se limpian e incluyen los datos en un dataframe y finalmente se vuelcan en un csv.
 
 La práctica ha sido realizada por Juan Miguel Iglesias Labraca y Elías Páez de la Rosa.
 
